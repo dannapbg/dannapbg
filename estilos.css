@@ -1,0 +1,49 @@
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+body{
+    background-color:#D7DBDD;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header {
+    background-color:#FF0000;
+    text-align: center;
+}
+.menu li{
+list-style:none;
+background-color: white;
+padding: 5px;
+border: 1px solid black;
+display:inline-block 
+}
+.globo{
+    width: 1320px;
+    padding: 5px;
+    text-align: center;
+    background-color: #1ABC9C;
+    border: 1px solid black
+    
+}
+img{
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+}
+.casa li{
+    list-style:none;
+    background: color #ecf0f1;
+    padding: 10px;
+    border: 1px solid black;
+    display:inline-block 
+}
+footer{
+    background: color #f08080;
+    font-style: italic;
+    display: block;
+    padding: 20px;
+    border: 1px solid black
+    text-align: center;
+}

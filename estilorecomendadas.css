@@ -1,0 +1,12 @@
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+body{
+    background-color: crimson;
+}
+header{
+    background-color:white;
+    text-align: center;
+}

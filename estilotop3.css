@@ -1,0 +1,17 @@
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+body{
+    background-color: cyan;
+}
+header{
+    background-color:white;
+    text-align: center;
+}
+img{
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+}
